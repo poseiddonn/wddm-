@@ -26,23 +26,12 @@ p.name {
   height: 50%;
 }
 
-.txt {
-  padding-top: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  color: white;
-  height: 50%;
-}
 .left {
   margin-left: 10px;
   width: 48%;
   display: inline-block;
 }
-#left {
-  font-size: 25px;
-  margin-left: 10px;
-  width: 48%;
-}
+
 .right {
   width: 49%;
   margin-right: 5px;
