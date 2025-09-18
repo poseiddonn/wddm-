@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: lightblue;
 }
 p.name {
   text-align: center;
@@ -38,3 +38,4 @@ p.name {
   display: inline-block;
   text-align: right;
 }
+
